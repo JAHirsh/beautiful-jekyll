@@ -36,3 +36,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a>
 
 <hr>
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                         
+  Table Demo: "table-demo"              # ADD THIS LINK
+  
